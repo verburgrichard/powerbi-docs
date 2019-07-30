@@ -36,7 +36,7 @@ Verify that you have the correct username and password. Also, verify that those 
 
 ### Error: Unable to Connect. Details: "Cannot connect to the database"
 
-We were able to connect to the server, but not to the database supplied. Verify the name of the database, and that the user credential as the proper permission to access that database.
+We were able to connect to the server, but not to the database supplied. Verify the name of the database, and that the user credential has the proper permission to access that database.
 
 Within **Show details**, it displays the error message received from the data source. For SQL Server, you see something like the following.
 
